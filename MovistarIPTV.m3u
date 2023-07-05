@@ -151,8 +151,8 @@ rtp://@239.0.6.54:8208
 rtp://@239.0.5.188:8208
 #EXTINF:-1, [074] Real Madrid TV HD
 rtp://@239.0.0.179:8208
-#EXTINF:-1, [075] Barça TV HD {DRM}
-rtp://@239.0.5.199:8208
+#EXTINF:-1 ,[1013] M+ Wimbledon UHD HD {DRM}
+rtp://@239.0.9.127:8208
 #EXTINF:-1, [079] UBEAT HD {DRM}
 rtp://@239.0.0.178:8208
 
